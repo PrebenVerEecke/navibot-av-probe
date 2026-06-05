@@ -1,0 +1,2 @@
+navibot-av-canary-2e6ad5c15cea5383758d745f
+# canary marker for navibot AV clone/exec test (2026-06-06). If this token appears in any worker output/log/DNS, the repo was read.
